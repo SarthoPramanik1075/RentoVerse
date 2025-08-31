@@ -1,0 +1,22 @@
+# Java / Maven
+target/
+*.log
+
+# IntelliJ
+.idea/
+*.iml
+
+# Local DB / uploads
+data/
+uploads/
+
+# OS junk
+.DS_Store
+
+# Env files
+.env
+
+# (যদি আলাদা frontend থাকে)
+frontend/node_modules/
+dist/
+build/
