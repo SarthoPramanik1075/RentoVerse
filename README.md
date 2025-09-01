@@ -1,6 +1,6 @@
 🏠 RentoVerse
 
-Live Hosting: rentoverse-backend.onrender.com
+Live Hosting: https://rentoverse-backend.onrender.com/index.html
 Demo Video(Youtube): https://youtu.be/6iCsTqltfFY?si=L_4Ha2E3zKMYZ-mA
 
 RentoVerse is a full-stack web application for house rental management.
